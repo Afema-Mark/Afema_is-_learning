@@ -1,1 +1,1 @@
-the demo prop
+The demo prop
